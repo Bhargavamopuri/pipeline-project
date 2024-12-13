@@ -23,8 +23,6 @@
              </configuration>
             </plugin>
         </plugins>
-    </build>
-  <build>
     <finalName>ppprojectapp</finalName>
   </build>
 </project>
