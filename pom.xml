@@ -25,7 +25,7 @@
         </plugins>
     </build>
 </dependency>
-  </dependencies>
+ <dependencies>
   <build>
     <finalName>ppprojectapp</finalName>
   </build>
